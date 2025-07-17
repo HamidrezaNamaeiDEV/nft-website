@@ -14,11 +14,11 @@ a{
 }
 
 body{
-    font-family: kalameh;
+    font-family: 'vazir',sans-serif;
     background-color: var(--color_07101D);
 }
 
-@font-face {
+/* @font-face {
     font-family: kalameh;
     font-style: normal;
     font-weight: 900;
@@ -63,7 +63,7 @@ body{
     font-style: normal;
     font-weight: bold;
     src: url('../font/WebFonts/_Woff/Gilroy-Bold.woff') format('woff');
-}
+} */
 
 header::before{
     content: '';
